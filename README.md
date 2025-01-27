@@ -2,7 +2,7 @@
 
 This project focuses on predicting stock prices using historical data fetched through the yfinance library. It employs time series analysis and machine learning techniques, specifically LSTMs, to provide reliable predictions of future stock prices.
 
-Features
+# Features
 
 Data Acquisition: Automatically fetch historical stock data using the yfinance library.
 
@@ -14,11 +14,11 @@ Modeling: Build and train LSTM models using TensorFlow/Keras for time series for
 
 Prediction: Generate and visualize future stock price predictions.
 
-Technologies and Tools
+# Technologies and Tools
 
 Programming Language: Python
 
-Libraries:
+# Libraries:
 
 yfinance: For fetching historical stock data.
 
